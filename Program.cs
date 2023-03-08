@@ -8,6 +8,11 @@ namespace Ejercicio9
 {
     internal class Program
     {
+        /*
+         Ante un numero de errores, me diga qu he perdido,
+        Que al final muestre la cantidad de errores, y el tiempo que demoro en adivinar la palabra.
+        Si es posible añadir un componente grafico para que el jugador vea el dibujo ahorcado.
+         */
         static void Main(string[] args)
         {
             string letras = "";
